@@ -13,7 +13,7 @@ import androidx.navigation.fragment.findNavController
 import com.example.crud_app_sqllite.databinding.FragmentFirstBinding
 import androidx.core.os.bundleOf
 
-
+// author louay zaidi
 class FirstFragment : Fragment() {
     private var _binding: FragmentFirstBinding? = null
     private val binding get() = _binding!!

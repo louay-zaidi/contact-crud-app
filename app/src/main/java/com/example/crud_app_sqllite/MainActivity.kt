@@ -14,6 +14,7 @@ import android.widget.Toast
 import androidx.core.content.ContentProviderCompat.requireContext
 import com.example.crud_app_sqllite.databinding.ActivityMainBinding
 
+// author louay zaidi
 class MainActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration

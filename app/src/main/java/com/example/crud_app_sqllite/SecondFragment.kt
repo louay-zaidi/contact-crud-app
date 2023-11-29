@@ -14,7 +14,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.findNavController
 import com.example.crud_app_sqllite.databinding.FragmentSecondBinding
-
+// author louay zaidi
 class SecondFragment : Fragment() {
 
 
